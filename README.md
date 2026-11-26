@@ -43,6 +43,7 @@
 |---|---|---|
 | ESUN Agent 🔒 | 2026 玉山 AI CUP「Agent 基金經理人」：Agent 每天自動產出 ETF 投資計畫，送出前用規則檢查器把關 | AI Agent · Quant |
 | [MEV × 最後通牒賽局](https://github.com/toolmenj/MEV-Sharing-Analysis-from-the-Perspective-of-the-Ultimatum-Game) | 區塊鏈導論專題：用賽局理論分析鏈上 MEV 分潤，並以 MEV-Boost 公開資料驗證 | Game Theory · Ethereum |
+| ce2026 🔒 | 密碼工程課：在 STM32F407（Arm Cortex-M4）上用組合語言實作 ChaCha20、SHAKE256 等密碼演算法並測效能 | Arm Assembly · C · STM32 |
 
 **🏮 個人作品**
 
