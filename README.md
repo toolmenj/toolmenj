@@ -73,16 +73,11 @@
 
 - **農業部** 研究助理（2025.7 – 至今）
 - **臺大機器學習與電腦視覺實驗室** 研究助理（2024.7 – 至今）
-- **林業試驗所** 研究助理（2024.7 – 2025.7）
 - **臺大生機系** 資料科學、暑期課程助教
 - 生機系畢業典禮、杜鵑花節、新生營總召；臺大流行音樂社活動長
 
 <div align="center">
 <br>
-
-<i>「若有緣，自會相見。」</i>
-
-<br><br>
 
 <a href="https://toolmenj.github.io/profile/github-wukong-intro/"><img src="https://img.shields.io/badge/Portfolio-D4A843?style=for-the-badge&logoColor=white" alt="Portfolio"></a>
 <a href="mailto:jayteng0903796177@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
